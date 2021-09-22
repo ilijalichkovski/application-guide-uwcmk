@@ -18,11 +18,11 @@ Best of luck &mdash; we look forward to getting to know you better!
 
 ## Step 1: Registration
 
-Click the following link to access the UWC Macedonia application:
+To start your process, click the following link to access the UWC Macedonia application:
 
 [Link to application](https://apply.uwc.org/prog/uwc_macedonia_application_national_committee_selection "Click here")
 
-In order to start your application, you need to register an account &mdash; you can do this by clicking the green **Register** button in the top right corner. Fill out the form, and upon registration, you will receive a confirmation email with instructions, which you need to follow in order to **verify your email address**. Without verifying your email address, you cannot submit the application or perform certain tasks, so ensure you do it before taking any other steps.
+Now, in order to start your application, you need to register an account &mdash; you can do this by clicking the green **Register** button in the top right corner. Fill out the form, and upon registration, you will receive a confirmation email with instructions, which you need to follow in order to **verify your email address**. Without verifying your email address, you cannot submit the application or perform certain tasks, so ensure you do it before taking any other steps.
 
 ![](Screenshot_1.png)
 
