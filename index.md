@@ -128,6 +128,10 @@ Once you have completed the review, and you are satisfied with everything, click
 
 Upon successful submission of your application, you should receive a confirmation email. Make sure to check the inbox of the email address you entered in the forms (including the Spam/Junk folder). 
 
+![](Screenshot_19.png)
+
 If you do not see a confirmation email anywhere, it might be possible that we have not received your application or a technical error has occurred. In this case, please contact us directly.
 
-## 
+## That's it! 
+
+After you've submitted your application, keep an eye on your email inbox &mdash; we will contact you soon!
