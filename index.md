@@ -22,13 +22,15 @@ To start your process, click the following link to access the UWC Macedonia appl
 
 [Link to application](https://apply.uwc.org/prog/uwc_macedonia_application_national_committee_selection "Click here")
 
-Now, once you've read the introductory paragraphs, it it time to start the application. Firstly, you need to register a SurveyMonkey account &mdash; you can do this by clicking the green **Register** button in the top right corner. Fill out the form, and upon registration, you will receive a confirmation email with instructions, which you need to follow in order to **verify your email address**. Without verifying your email address, you cannot submit the application or perform certain tasks, so ensure you do it before taking any other steps.
+Now, once you've read the introductory paragraphs, it it time to start the application. Firstly, you need to register a SurveyMonkey account &mdash; you can do this by clicking the green **Register** button in the top right corner. 
 
 ![](Screenshot_1.png)
 
-![](Screenshot_2.png)
+Fill out the form, and upon registration, you will receive a confirmation email which instructions. Open the confirmation email and cLick the **"Confirm email address"** button (seen below) to *verify your email address*.
 
 ![](Screenshot_3.png)
+
+Without verifying your email address, you cannot submit the application or perform certain tasks, so ensure you do it before taking any other steps. You will get the notification below once your email address is verified.
 
 ![](Screenshot_4.png)
 
@@ -36,9 +38,11 @@ Now, once you've read the introductory paragraphs, it it time to start the appli
 
 ## Step 2: Eligibility Form
 
-After your email verification is complete, you will be redirected to the page shown below. Click on the green **"View Programs"** box, and in the new page, click **"Fill out eligibility profile"**. This eligibility form is used by the system to verify which applications you can be considered for.
+After your email verification is complete, you will be redirected to the page shown below. <u> Do not worry about the "No applications" message &mdash; the system simply needs some aditional information in order to present the appropriate application to you.<\u> Thus, click on the green **"View Programs"** box.
 
 ![](Screenshot_5.png)
+
+In the new page, click **"Fill out eligibility profile"**. This eligibility form is used by the system to verify which applications you can be considered for.
 
 ![](Screenshot_6.png)
 
@@ -46,7 +50,7 @@ Start filling in the eligibility form with your **correct** personal information
 
 ![](Screenshot_7.png)
 
-**Note**: If you hold a citizenship or residency in addition to your Macedonian, you might be eligible for applying via other National Committees. Whichever one you choose, you may only apply through that committee only.
+**Note**: If you hold a citizenship or residency in addition to your Macedonian one, you might be eligible for applying via other National Committees. Whichever one you choose, <u>you may only apply through that committee only.<\u>
 
 Next, ensure to select the **UWC National Committee** option as the application route &mdash; the Global Selection Programme is a different process and not relevant here.
 
