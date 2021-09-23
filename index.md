@@ -38,7 +38,7 @@ Without verifying your email address, you cannot submit the application or perfo
 
 ## Step 2: Eligibility Form
 
-After your email verification is complete, you will be redirected to the page shown below. <u> Do not worry about the "No applications" message &mdash; the system simply needs some aditional information in order to present the appropriate application to you.<\u> Thus, click on the green **"View Programs"** box.
+After your email verification is complete, you will be redirected to the page shown below. <u> Do not worry about the "No applications" message</u> &mdash; the system simply needs some aditional information in order to present the appropriate application to you. Thus, click on the green **"View Programs"** box.
 
 ![](Screenshot_5.png)
 
@@ -50,7 +50,7 @@ Start filling in the eligibility form with your **correct** personal information
 
 ![](Screenshot_7.png)
 
-**Note**: If you hold a citizenship or residency in addition to your Macedonian one, you might be eligible for applying via other National Committees. Whichever one you choose, <u>you may only apply through that committee only.<\u>
+**Note**: If you hold a citizenship or residency in addition to your Macedonian one, you might be eligible for applying via other National Committees. Whichever one you choose, <u>you may only apply through that committee only.</u>
 
 Next, ensure to select the **UWC National Committee** option as the application route &mdash; the Global Selection Programme is a different process and not relevant here.
 
