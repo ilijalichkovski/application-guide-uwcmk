@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
+echo ''
+echo 'title: UWC MK'
+echo 'description: test text'
 github:
   is_project_page: false
-'title: UWC MK'
-'description: test text'
