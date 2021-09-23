@@ -1,8 +1,5 @@
 ![](UWC Primary RGB_screen.png)
 
-# UWC Macedonia Application Guide
-
-
 
 Hi applicants!
 
