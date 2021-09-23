@@ -6,21 +6,25 @@ Hi applicants!
 
 
 
-This article serves to guide you through the application process for UWC Macedonia via the SurveyMonkey Application platform. Please make sure to familiarize yourself with the contents below as you're working on your application in order to avoid mistakes and uncertainties. For any questions or difficulties, feel free to email us at info@mk.uwc.org or contact us on Facebook ([UWC Macedonia](https://www.facebook.com/uwcmacedonia/)).
+This article serves to guide you through the application process for UWC Macedonia via the SurveyMonkey Apply platform. Please make sure to familiarize yourself with the contents below as you're working on your application in order to avoid mistakes and uncertainties. For any questions or difficulties, feel free to email us at info@mk.uwc.org or contact us on Facebook ([UWC Macedonia](https://www.facebook.com/uwcmacedonia/)).
 
 The deadline for submitting your application is **November 20, 2021 at 23:59**. 
 
 Best of luck &mdash; we look forward to getting to know you better!
 
+---
 
+The steps below outline the procedure of using the SurveyMonkey Apply platform. The process consists of registering an account and verifying your eligibility, followed by filling out personal information, selecting a preferred language of application, and finally, filling out your answers and essays. Upon completion, it is **crucial** that you submit your application, as outlined in **Step 8: Submit**. Even after completing every section, the Macedonian National Committee will not be able to read yor application unless you submit it to us.
+
+Let's start!
 
 ## Step 1: Registration
 
-To start your process, click the following link to access the UWC Macedonia application:
+Firstly, click the following link to access the UWC Macedonia application:
 
 [Link to application](https://apply.uwc.org/prog/uwc_macedonia_application_national_committee_selection "Click here")
 
-Now, once you've read the introductory paragraphs, it it time to start the application. Firstly, you need to register a SurveyMonkey account &mdash; you can do this by clicking the green **Register** button in the top right corner. 
+You may read the introductory paragraphs displayed on the page for details. Then, you need to register a SurveyMonkey account &mdash; you can do this by clicking the green **Register** button in the top right corner (shown in the image below):
 
 ![](Screenshot_1.png)
 
