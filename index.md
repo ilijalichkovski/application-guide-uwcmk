@@ -14,7 +14,7 @@ Best of luck &mdash; we look forward to getting to know you better!
 
 ---
 
-The steps below outline the procedure of using the SurveyMonkey Apply platform. The process consists of registering an account and verifying your eligibility, followed by filling out personal information, selecting a preferred language of application, and finally, filling out your answers and essays. Upon completion, it is **crucial** that you submit your application, as outlined in **Step 8: Submit**. Even after completing every section, the Macedonian National Committee will not be able to read yor application unless you submit it to us.
+The steps below outline the procedure of using the SurveyMonkey Apply platform. The process consists of registering an account and verifying your eligibility, followed by filling out personal information, selecting a preferred language of application, and finally, filling out your answers and essays. Upon completion, it is **crucial** that you submit your application, as outlined in **Step 8: Submit**. Even after completing every section, the Macedonian National Committee will not be able to read your application unless you submit it to us.
 
 Let's start!
 
