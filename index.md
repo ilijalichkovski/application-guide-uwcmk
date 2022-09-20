@@ -8,7 +8,7 @@ Hi applicants!
 
 This article serves to guide you through the application process for UWC Macedonia via the SurveyMonkey Apply platform. Please make sure to familiarize yourself with the contents below as you're working on your application in order to avoid mistakes and uncertainties. For any questions or difficulties, feel free to email us at info@mk.uwc.org or contact us on Facebook ([UWC Macedonia](https://www.facebook.com/uwcmacedonia/)).
 
-The deadline for submitting your application is **November 20, 2021 at 23:59**. 
+The deadline for submitting your application is **November 20, 2022 at 23:59**. 
 
 Best of luck &mdash; we look forward to getting to know you better!
 
@@ -105,6 +105,8 @@ Finally, you've made it to the part where you get to tell us about yourself!
 Start by reading all the included instructions, and filling in your answers in your selected language. This section has multiple parts, which you can navigate via the Previous and Next buttons. As you are completing questions, we recommend you frequently click on Save & Continue editing in order to prevent losing your responses if your browser crashes or internet connection stops.
 
 ![](Screenshot_18.png)
+
+The second page of the application form asks you to indicate your interest in being considered for the Climate Action Leadership Diploma (CALD) at UWC Pearson. If you choose yes, you express that if you reach the final stage of the selection process and get selected, you are open to being allocated to UWC Pearson to follow the CALD programme. This does not mean that you are no longer being considered for the standard IB Diploma Programme available at all UWCs; instead, you are opting into *also* being considered for the IB Career Programme CALD curriculum offered exclusively at UWC Pearson. <u>All applicants are by default considered for the IB Diploma Programme.</u> 
 
 Note that in the Essay part of this section, one of the essays must be written in your native language (Macedonian/Albanian), and the other one in English. This is the only case in this section where you'll need to use a different language than your chosen one.
 
