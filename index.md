@@ -6,7 +6,7 @@ Hi applicants!
 
 
 
-This article will help guide you through the application process for UWC Macedonia via the SurveyMonkey Apply platform. Please make sure you're familiar with the contents below as you're working on your application in order to avoid mistakes and uncertainties. For any questions or difficulties, feel free to email us at info@mk.uwc.org or contact us on Facebook ([UWC Macedonia](https://www.facebook.com/uwcmacedonia/)) or Instagram ([@uwcmacedonia](https://www.instagram.com/uwcmacedonia/)).
+This guide will help you use the SurveyMonkey platform to apply to UWC. Please make sure you're familiar with the contents below as you're working on your application in order to avoid mistakes and uncertainties. For any questions or difficulties, feel free to email us at info@mk.uwc.org or contact us on Facebook ([UWC Macedonia](https://www.facebook.com/uwcmacedonia/)) or Instagram ([@uwcmacedonia](https://www.instagram.com/uwcmacedonia/)).
 
 The deadline for submitting your application is **November 17, 2023 at 23:59**. 
 
@@ -14,7 +14,13 @@ Best of luck &mdash; we look forward to getting to know you better!
 
 ---
 
-The steps below outline the procedure of using the SurveyMonkey Apply platform. The process consists of registering an account and verifying your eligibility, followed by filling out personal information, selecting a preferred language of application, and finally, filling out your answers and essays. Upon completion, it is **crucial** that you submit your application, as outlined in **Step 8: Submit**. Even if you complete every section, but do not submit the application, the Macedonian National Committee will not be able to read your application. So please **ensure to submit** the application -- if you're in doubt whether we have received it, email us!
+The steps below outline the procedure of using the SurveyMonkey Apply platform. The process consists of:
+- registering an account and verifying your eligibility,
+- filling out personal information,
+- selecting a preferred language of application,
+- filling out your answers to the actual application questions and essays.
+
+After you finish writing your application and all sections are completed, you **must submit your application**, as outlined in **Step 8: Submit**. Even if you complete every section, but do not submit the application, the Macedonian National Committee will not be able to read your application. So please **ensure to click "Submit"** -- if you're in doubt whether we have received it, take a look at Step 9! 
 
 Let's start!
 
@@ -128,17 +134,17 @@ Once you have completed the review, and you are satisfied with everything, click
 
 ![](Screenshot_17.png)
 
-## Step 9: Check email
+## Step 9: Check your email
 
-Upon successful submission of your application, you should receive a confirmation email. Make sure to check the inbox of the email address you entered in the forms (including the Spam/Junk folder). 
+Upon successful submission of your application, you should receive a confirmation email. Make sure to check the inbox of the email address you entered in the forms (including the Spam/Junk folder). The confirmation email looks like this:
 
 ![](Screenshot_155.png)
 
-Additionally, you when you're logged in on SurveyMonkey Apply, you can click on "view my applications" and check whether the status of your application says "submitted":
+**Another way to check**: when you when you're logged into SurveyMonkey Apply, you can click on "view my applications" and check whether the status of your application says "submitted":
 
 ![](Screenshot_154.png)
 
-If you do not see a confirmation email anywhere, it might be possible that we have not received your application or a technical error has occurred. In this case, please contact us directly.
+If you do not see a confirmation email anywhere, it might be possible that we have not received your application or a technical error has occurred. In this case, please contact us directly (info@mk.uwc.org).
 
 ## That's it! 
 
