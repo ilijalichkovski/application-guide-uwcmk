@@ -14,7 +14,7 @@ Best of luck &mdash; we look forward to getting to know you better!
 
 ---
 
-The steps below outline the procedure of using the SurveyMonkey Apply platform. The process consists of registering an account and verifying your eligibility, followed by filling out personal information, selecting a preferred language of application, and finally, filling out your answers and essays. Upon completion, it is **crucial** that you submit your application, as outlined in **Step 8: Submit**. Even after completing every section, the Macedonian National Committee will not be able to read your application unless you submit it to us.
+The steps below outline the procedure of using the SurveyMonkey Apply platform. The process consists of registering an account and verifying your eligibility, followed by filling out personal information, selecting a preferred language of application, and finally, filling out your answers and essays. Upon completion, it is **crucial** that you submit your application, as outlined in **Step 8: Submit**. Even if you complete every section, but do not submit the application, the Macedonian National Committee will not be able to read your application. So please **ensure to submit** the application -- if you're in doubt whether we have received it, email us!
 
 Let's start!
 
@@ -26,9 +26,9 @@ Firstly, click the following link to access the UWC Macedonia application:
 
 You may read the introductory paragraphs displayed on the page for details. Then, you need to register a SurveyMonkey account &mdash; you can do this by clicking the green **Register** button in the top right corner (shown in the image below):
 
-![](Screenshot_1.png)
+![](Screenshot_146.png)
 
-Fill out the form, and upon registration, you will receive a confirmation email which instructions. Open the confirmation email and cLick the **"Confirm email address"** button (seen below) to *verify your email address*.
+Fill out the form, and upon registration, you will receive a confirmation email which instructions. Open the confirmation email and click the **"Confirm email address"** button (seen below) to *verify your email address*.
 
 ![](Screenshot_3.png)
 
@@ -64,13 +64,13 @@ Lastly, read the *UWC Data Protection Policy* and the *UWC Privacy Statement*, a
 
 Now that you've completed step 2, and you are confirmed to be eligible, you will be redirected to the page shown in the image below. UWC Macedonia's application will be visible &mdash; click on **"More"**. 
 
-![](Screenshot_9.png)
+![](Screenshot_145.png)
 
 Once you are directed to the next page, make sure to carefully read the description and instructions. These will be important as you begin the actual application process. Then, click on **Apply**.
 
 This will lead you to the page shown below. In it, there are two tasks for you to complete: Personal Information and Language Selection. Select the Personal Information section.
 
-![](Screenshot_10.png)
+![](Screenshot_147.png)
 
 ## Step 4: Personal Information
 
@@ -80,17 +80,19 @@ Make sure that the information you enter in this section is true to the best of 
 
 Once you finish this section and consent to the processing of the information you provided, click on **"Mark As Complete"**.
 
-![](Screenshot_11.png)
+![](Screenshot_148.png)
 
-Now you can move on to the next section: Language Selection.
+With the personal information section done, now you can move on to the next section!
 
 ## Step 5: Language Selection
 
-Here, you get to choose which language you want to fill in your actual application &mdash; such as answers to the short questions and essays. Thus, it is crucial that you choose the language that you are **most comfortable** with. Your choice of language <u>will not advantage or disadvantage your application whatsoever,</u> and has no effect on any part of the grading.
+![](Screenshot_149.png)
+
+Here, you get to choose which language you want to fill in your actual application &mdash; your answers to the short questions and essays. Thus, it is crucial that you choose the language that you are **most comfortable** with. Your choice of language <u>will not advantage or disadvantage your application whatsoever,</u> and has no effect on any part of the grading.
 
 Based on your language selection, the application form in your chosen language will appear, and you are able to start with filling it in.
 
-![](Screenshot_12.png)
+![](Screenshot_150.png)
 
 **Note**: if, at any point, you change your mind about which language you want to fill your application in, you are able to choose a new language and start over. To do this, click on the three dots on the top-right of the box, and click Reset. If you had already written answers in the existing application, we recommend downloading them before resetting the language in order to prevent losing them.
 
@@ -106,13 +108,11 @@ Start by reading all the included instructions, and filling in your answers in y
 
 ![](Screenshot_18.png)
 
-The second page of the application form asks you to indicate your interest in being considered for the Climate Action Leadership Diploma (CALD) at UWC Pearson. You can find [more information for the CALD programme on this link](https://www.mk.uwc.org/cald). If you choose yes, you express that if you reach the final stage of the selection process and get selected, you are open to being allocated to UWC Pearson to follow the CALD programme. This does not mean that you are no longer being considered for the standard IB Diploma Programme available at all UWCs; instead, you are opting into *also* being considered for the IB Career Programme CALD curriculum offered exclusively at UWC Pearson. <u>All applicants are by default considered for the IB Diploma Programme.</u> 
-
 Note that in the Essay part of this section, one of the essays must be written in your native language (Macedonian/Albanian), and the other one in English. This is the only case in this section where you'll need to use a different language than your chosen one.
 
 Once you have finished your answers and checked them, click on Mark as Complete at the end of the section. At this point, you will still be able to make changes to your answers as much as you need, as long as you haven't completed Step 8 (see below).
 
-![](Screenshot_14.png)
+![](Screenshot_151.png)
 
 ## Step 7: Review
 
@@ -120,7 +120,7 @@ Once all three sections (Personal Information, Language Selection and the Applic
 
 Finally, the review also gives you an opportunity to download all your answers &mdash; we advise you to do this for future reference.
 
-![](Screenshot_15.png)
+![](Screenshot_152.png)
 
 ## Step 8: Submit
 
@@ -132,10 +132,14 @@ Once you have completed the review, and you are satisfied with everything, click
 
 Upon successful submission of your application, you should receive a confirmation email. Make sure to check the inbox of the email address you entered in the forms (including the Spam/Junk folder). 
 
-![](Screenshot_19.png)
+![](Screenshot_155.png)
+
+Additionally, you when you're logged in on SurveyMonkey Apply, you can click on "view my applications" and check whether the status of your application says "submitted":
+
+![](Screenshot_154.png)
 
 If you do not see a confirmation email anywhere, it might be possible that we have not received your application or a technical error has occurred. In this case, please contact us directly.
 
 ## That's it! 
 
-After you've submitted your application, keep an eye on your email inbox &mdash; we will contact you soon!
+After you've ensured your application is submitted, keep an eye on your email inbox in December &mdash; we will contact you with the results!
