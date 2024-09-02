@@ -8,7 +8,7 @@ Hi applicants!
 
 This guide will help you use the SurveyMonkey platform to apply to UWC. Please make sure you're familiar with the contents below as you're working on your application in order to avoid mistakes and uncertainties. For any questions or difficulties, feel free to email us at info@mk.uwc.org or contact us on Facebook ([UWC Macedonia](https://www.facebook.com/uwcmacedonia/)) or Instagram ([@uwcmacedonia](https://www.instagram.com/uwcmacedonia/)).
 
-The deadline for submitting your application is **November 17, 2023 at 23:59**. 
+The deadline for submitting your application is **November 2, 2024 at 23:59**. 
 
 Best of luck &mdash; we look forward to getting to know you better!
 
